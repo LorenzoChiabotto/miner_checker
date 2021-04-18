@@ -14,4 +14,4 @@ WALLET_ID=[THE_WALLET_ID_ASSOCIATED_TO_ETHERMINE]
 CELLPHONE_NUMBER=[YOUR_PHONE_NUMBER]
 ```
 Then you can run the service and when one of your workers went down you will receive a message like this
-![message](./images/message_notification.png)
+<img src="./images/message_notification.png" alt="message" width="300"/>
